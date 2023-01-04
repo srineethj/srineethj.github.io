@@ -19,7 +19,7 @@
 }
 
 .header-title-box {
-  border-radius: 10px;
+  border-radius: 20px;
   padding: 1.5rem 3rem;
   background-color: var(--gray-color);
   color: var(--white-color);

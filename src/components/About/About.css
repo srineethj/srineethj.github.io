@@ -38,9 +38,33 @@
   max-width: fit-content;
 }
 
+.text-sbu {
+  cursor: pointer;
+  color: var(--white-color);
+  display: inline-flex;
+  align-items: center;
+}
+
+.text-sbu:hover {
+  transition: 350ms;
+  background: linear-gradient(
+    90deg,
+    #2b2827 2.73%,
+    #c61313 71.63%,
+    #e9eeef 100%
+  );
+  background-size: 400vh;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  animation: text-move infinite 3s alternate;
+}
+
 @media (max-width: 425px) {
   .about-left {
-    padding: 20px;
+    padding: 10px;
     text-align: left;
     max-width: 100%;
   }
@@ -50,7 +74,7 @@
   }
 
   .about-right img {
-    margin: 0 1rem;
+    margin: 0rem;
 
   }
 
