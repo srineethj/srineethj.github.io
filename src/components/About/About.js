@@ -15,7 +15,7 @@ export const About = () => {
           <span className="purple-smoke-text">Introduction 😇</span>{" "}
         </span> */}
         <p className="gray-text">
-          Hello! I'm an undegraduate computer science (CSE) student at <a href="https://stonybrook.edu"><span className="text-sbu"> Stony Brook University </span></a> in the Greater New York City Area. I am currently specializing in Human Computer Interaction, minoring in biology, and I'm interested in the intersection of computer science and medicine. I am passionate about problem solving, increasing the accessibility of technology and desinging human centered products. I am currently looking for opportunities for Summer 2023 – please feel free to email me at <span className="white-text">svjayanthi [at] cs [dot] stonybrook [dot] edu.</span>{" "}
+          Hello! I'm an undegraduate computer science (CSE) student at <a href="https://stonybrook.edu"><span className="text-sbu"> Stony Brook University </span></a> in the Greater New York City Area. I am currently specializing in Human Computer Interaction, minoring in biology, and I'm interested in the intersection of computer science and medicine. I'm increasing the accessibility of software and designing human centered products. At school, I'm the President of the National Residence Hall Honorary, a service and leadership oriented student organization. I am currently looking for opportunities for Summer 2023 – please feel free to email me at <span className="white-text">svjayanthi [at] cs [dot] stonybrook [dot] edu.</span>{" "}
         </p>
         <p>
           

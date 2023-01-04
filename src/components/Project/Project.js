@@ -32,7 +32,7 @@ function Project() {
           <p className="gray-text">
             Developed with 
             <img className="icon-figma" src={ReactIcon} alt="" />
-            <span className="text-react">React</span> and view on <span className="text-react">Github</span>
+            <span className="text-react">React</span> with components from Material UI. Backend in Express & MongoDB. 
           </p>
           <div className="details-stack">
             <span className="white-text">Technologies:</span>
@@ -41,6 +41,7 @@ function Project() {
               <li>MongoDB</li>
               <li>Express</li>
               <li>Node.js</li>
+              <li>Material UI</li>
               <li>Postman</li>
             </ul>
           </div>
@@ -132,7 +133,7 @@ function Project() {
           <p className="gray-text">
              Developed with 
             <img className="icon-figma" src={FigmaIcon} alt="" />
-            <span className="text-figma">Figma</span> and mockups with Google Web Designer.
+            <span className="text-figma">Figma</span> with HCI testing in R & Python.
           </p>
           <div className="details-stack">
             <span className="white-text">Technologies:</span>
