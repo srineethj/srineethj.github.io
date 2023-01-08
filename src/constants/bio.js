@@ -25,20 +25,20 @@ export const BIO = [
       name: "Stony Brook University",
       cargo: "Resident Assistant",
     },
-    description: "Resident Assistant directly overseeing fourty upperclassmen residents, on-call for over four hundred.",
+    description: "Resident Assistant directly overseeing fourty upperclassmen residents, on-call for over five hundred.",
     details: [
       "Assigned rotation based, overnight emergency response for over five hundred residents and up to two apartment-style residential buildings, including building and area wide emergency response in situations such as building flooding, electrical outages, fire alarms, mental health issues, etc.",
-      "Development of user interface and user experience",
+      "Designed and developed university marketing materials using Adobe Illustrator and Canva",
     ],
   },
   {
     year: 2022,
     title: {
       name: "Stony Brook University",
-      cargo: "Teaching Assistant",
+      cargo: "Undergraduate Teaching Assistant",
     },
     description:
       "UGTA for BIO 201 (Ecology & Evolution), CSE 215 (Intro to Theory of Computation)",
-    details: ["Evauluated student assignmenets", "Led recitations and prepared recitation materials for more than 20 students", "Held weekly office hours", "Reported student and instructor feedback for university initiatives"],
+    details: ["Evauluated student assignments", "Led recitations and prepared recitation materials for more than 20 students", "Held weekly office hours", "Reported student and instructor feedback for university initiatives"],
   },
 ];
