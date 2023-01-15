@@ -1,11 +1,11 @@
 import React from "react";
 import "./Project.css";
 import Line from "../../images/line-purple.svg";
-import ImageTemp from "../../images/prev-project-temp.png";
+// import ImageTemp from "../../images/prev-project-temp.png";
 import FigmaIcon from "../../images/figma-icon.svg";
 import ReactIcon from "../../images/react-svg.svg";
 import JavascriptIcom from "../../images/js-svg.svg";
-import PlaylisterImg from "../../images/playlister-img.png";
+// import PlaylisterImg from "../../images/playlister-img.png";
 import D3Icon from "../../images/d3.svg";
 
 function Project() {
@@ -51,7 +51,16 @@ function Project() {
 
       <div className="project-header">
         <div className="project-box">
-          <span className="white-text">nyc demographic & water quality data visualization</span>
+          <span className="white-text"><a href="https://srineethj.github.io/cse-332-final-viz"><span class="link-decoration">nyc demographic & water quality data viz</span><span class="icon-change">
+                <img
+                  src="https://cdn.sanity.io/images/tljndwv6/production/182744b0662c24bb7d37846566bdb7ebee3470d6-15x15.svg"
+                  alt="External Link"
+                />
+                <img
+                  src="https://cdn.sanity.io/images/tljndwv6/production/5fa75a7c756062d52b4f0d9244759279dd216201-15x15.svg"
+                  alt="GitHub"
+                />
+              </span></a></span>
           <p className="gray-text text-box">
             Interactive, data visualization dashboard web application, visualizing New York City demographic and water quality data.
           </p>

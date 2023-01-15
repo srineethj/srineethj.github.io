@@ -10,7 +10,7 @@ export default function Mode({ handleModeChange, setMode }) {
             <a href="#projects" ><span class="link-decoration">Projects</span></a>
           </li>
           <li>
-            <a target="_blank" href="https://github.com/srineethj">
+            <a href="https://github.com/srineethj">
               <span class="link-decoration">My Github</span>
               <span class="icon-change">
                 <img
